@@ -1,3 +1,3 @@
 todo list
 
-<a href="https://p6te.github.io/testProject/">Live version</a>
+<a href="https://p6te.github.io/to-do-list/">Live version</a>
